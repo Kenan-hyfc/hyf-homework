@@ -1,0 +1,25 @@
+img{
+    max-resolution: 10%;
+    margin: auto;
+    border: 10px;
+    width: 100px;
+}
+
+.kinan{
+    font-size: 40px;
+    font-style: italic;
+    
+
+}
+
+.chemist{
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}
+
+.class2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 19px;
+}
